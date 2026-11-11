@@ -1,0 +1,35 @@
+h2{
+    color:darkmagenta;
+    text-align:center;
+}
+form{
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid #b816b8;
+    padding: 20px;
+    border-radius: 5px;
+    font-family:sans-serif;
+}
+button{
+    background-color: darkmagenta;
+    color: rgb(15, 32, 177);
+    border: none;
+    padding: 10px ;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+
+
+}
+input{
+    border: 1px solid #16b86d;
+    border-radius: 5px;
+    width: 100%;
+    
+    
+}
+label{
+    font-weight: bold;
+    display: block;
+}
